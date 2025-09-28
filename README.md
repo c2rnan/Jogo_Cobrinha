@@ -1,0 +1,1 @@
+Esse foi um jogo em C que fiz na faculdade. (obs: o projeto foi feito por mim e nada feito pelo o pedru44 ele so ta como commit, porque o git dele esta logado aqui e foi a unica forma que consegui subir)
